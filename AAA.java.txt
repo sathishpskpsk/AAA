@@ -1,5 +1,5 @@
 public class AAA{
 	public stsic void main(String[] args){
-		
+		System.out.printLn("Hello");
 	}
 }
